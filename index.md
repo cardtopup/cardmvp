@@ -25,6 +25,7 @@
 - [抖音金秋地区赛｜海外抖音充值抖币怎么充更划算攻略](douyin-chuzhi1.md)
 - [抖音鑽石怎麼充最划算？台灣海外抖音儲值平台推薦](douyin-zuanshi.md)
 - [测测 App 海外充值攻略｜充值方法、流程及注意事项](cece-chongzhi.md)
+- [海外充值月糖实操干货，聊聊 CARDMVP 上手体验](yuetang-chongzhi.md)
 
 
 ---
