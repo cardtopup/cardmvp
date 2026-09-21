@@ -26,6 +26,7 @@
 - [抖音鑽石怎麼充最划算？台灣海外抖音儲值平台推薦](douyin-zuanshi.md)
 - [测测 App 海外充值攻略｜充值方法、流程及注意事项](cece-chongzhi.md)
 - [海外充值月糖实操干货，聊聊 CARDMVP 上手体验](yuetang-chongzhi.md)
+- [海外快手币如何充值｜CARDMVP 实操分享](kuaishoubi.md)
 
 
 ---
