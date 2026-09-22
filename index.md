@@ -27,6 +27,7 @@
 - [测测 App 海外充值攻略｜充值方法、流程及注意事项](cece-chongzhi.md)
 - [海外充值月糖实操干货，聊聊 CARDMVP 上手体验](yuetang-chongzhi.md)
 - [海外快手币如何充值｜CARDMVP 实操分享](kuaishoubi.md)
+- [海外抖音钻石充值划算攻略,2026 实测全网低价安全充值渠道0(douyinzuanshi.md)
 
 
 ---
