@@ -28,6 +28,7 @@
 - [海外充值月糖实操干货，聊聊 CARDMVP 上手体验](yuetang-chongzhi.md)
 - [海外快手币如何充值｜CARDMVP 实操分享](kuaishoubi.md)
 - [海外抖音钻石充值划算攻略,2026 实测全网低价安全充值渠道](douyinzuanshi.md)
+- [CARDMVP 抖音钻石优惠实测：实时汇率 + 低额手续费，真的划算吗？](douyinyouhui.md)
 
 
 ---
