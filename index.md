@@ -31,6 +31,7 @@
 - [CARDMVP 抖音钻石优惠实测：实时汇率 + 低额手续费，真的划算吗？](douyinyouhui.md)
 - [CARDMVP 平台评测｜中文站与英文国际站跨境充值对比](cardmvp.md)
 - [抖音充值便宜代充平台,不知道你听过 CARDMVP 吗](douyin-daichong.md)
+- [Where can you buy Chamet coins and do Chamet recharge safely? | CARDMVP](chamet.md)
 
 
 ---
