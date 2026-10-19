@@ -32,6 +32,7 @@
 - [CARDMVP 平台评测｜中文站与英文国际站跨境充值对比](cardmvp.md)
 - [抖音充值便宜代充平台,不知道你听过 CARDMVP 吗](douyin-daichong.md)
 - [Where can you buy Chamet coins and do Chamet recharge safely? CARDMVP](chamet.md)
+- [海外想充值抖音钻石？海外支付地区限制怎么解决？CARDMVP 跨境充值实测](douyin-zuanshi-1.md)
 
 
 ---
