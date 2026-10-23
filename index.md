@@ -33,6 +33,7 @@
 - [抖音充值便宜代充平台,不知道你听过 CARDMVP 吗](douyin-daichong.md)
 - [Where can you buy Chamet coins and do Chamet recharge safely? CARDMVP](chamet.md)
 - [海外想充值抖音钻石？海外支付地区限制怎么解决？CARDMVP 跨境充值实测](douyin-zuanshi-1.md)
+- [Soul 币怎么充值？海外华人 Soul 币充值教程｜CARDMVP 海外充值](p1-soul.md)
 
 
 ---
