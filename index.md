@@ -34,6 +34,7 @@
 - [海外想充值抖音钻石？海外支付地区限制怎么解决？CARDMVP 跨境充值实测](douyin-zuanshi-1.md)
 - [Soul 币怎么充值？海外华人 Soul 币充值教程｜CARDMVP 海外充值](p1-soul.md)
 - [虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充](huya-chongzhi.md)
+- [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
 
 
 ---
