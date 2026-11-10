@@ -2,9 +2,9 @@
 
 > 专为海外华人、留学生、港澳台用户打造的国内应用储值经验分享站点，解决境外支付报错、充值渠道踩坑等难题。
 
-欢迎访问 **CARDMVP** ([cardmvp.com](https://www.cardmvp.com/))，同时支持 [CARDMVP国际英文站]([https://xxx](https://www.cardmvp.com/en/))。
+欢迎访问 **CARDMVP**，同时支持 [CARDMVP国际英文站]([https://xxx](https://www.cardmvp.com/en/))。
 身在海外想要体验国内短视频、直播、游戏平台，经常遇到境外信用卡、PayPal无法直接充值的困境。
-本站分享真实的**海外充值**、**海外储值**避坑经验，科普UID直充、渠道甄别、省钱充值技巧，帮你安全畅玩国内各类APP，实现充值自由。
+本站分享真实的**[海外充值](https://www.cardmvp.com/)**、**海外储值**避坑经验，科普UID直充、渠道甄别、省钱充值技巧，帮你安全畅玩国内各类APP，实现充值自由。
 
 ## 📌 我们覆盖的储值场景
 - 🎬 直播平台：抖音抖币、快手快币、B站电池储值
@@ -33,6 +33,7 @@
 - [Where can you buy Chamet coins and do Chamet recharge safely? CARDMVP](chamet.md)
 - [海外想充值抖音钻石？海外支付地区限制怎么解决？CARDMVP 跨境充值实测](douyin-zuanshi-1.md)
 - [Soul 币怎么充值？海外华人 Soul 币充值教程｜CARDMVP 海外充值](p1-soul.md)
+- [虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充](huya-chongzhi.md)
 
 
 ---
