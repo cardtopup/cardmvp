@@ -1,7 +1,7 @@
 ---
 title: 虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充
 date: 2026-11-10
-author: ANTNUM
+author: CARDMVP
 lang: zh-CN
 description: 海外想充值虎牙虎币、金豆不方便？本篇实测虎牙号直充方式，对比渠道差异，讲解第三方平台 CARDMVP 使用特点与相关风险，给海外华人参考。
 keywords: 虎牙海外充值，虎牙号直充，虎牙虎币充值，虎牙金豆充值，CARDMVP 虎牙充值，海外充值
