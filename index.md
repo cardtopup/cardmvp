@@ -36,7 +36,7 @@
 - [虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充](huya-chongzhi.md)
 - [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
 - [快手快币充值｜海外快手号直充，CARDMVP 使用实测分享](kuaibi-chongzhi.md)
-- [Douyin Top Up for Global Fans | Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
+- [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
 
 
 ---
