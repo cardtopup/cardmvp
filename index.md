@@ -35,6 +35,7 @@
 - [Soul 币怎么充值？海外华人 Soul 币充值教程｜CARDMVP 海外充值](p1-soul.md)
 - [虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充](huya-chongzhi.md)
 - [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
+- [快手快币充值｜海外快手号直充，CARDMVP 使用实测分享](kuaibi-chongzhi.md)
 
 
 ---
