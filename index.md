@@ -2,7 +2,7 @@
 
 > 专为海外华人、留学生、港澳台用户打造的国内应用储值经验分享站点，解决境外支付报错、充值渠道踩坑等难题。
 
-欢迎访问 **CARDMVP**，同时支持 [CARDMVP国际英文站]([https://xxx](https://www.cardmvp.com/en/))。
+欢迎访问 **CARDMVP**，同时支持 [CARDMVP国际英文站](https://www.cardmvp.com/en/)。
 身在海外想要体验国内短视频、直播、游戏平台，经常遇到境外信用卡、PayPal无法直接充值的困境。
 本站分享真实的**[海外充值](https://www.cardmvp.com/)**、**海外储值**避坑经验，科普UID直充、渠道甄别、省钱充值技巧，帮你安全畅玩国内各类APP，实现充值自由。
 
@@ -13,6 +13,8 @@
 - 🌍 服务地区：北美、欧洲、东南亚、中国香港、中国台湾、马来西亚、新加坡
 
 ## 📖 文章列表
+
+### 中文文章
 - [海外充值｜海外储值完整指南：海外华人数字平台储值怎么选才安全划算](chongzhi-guide.md)
 - [海外华人充值游戏平台｜怎么选不踩坑的正规代充平台？](article1.md)
 - [海外第五人格储值划算渠道VS官方直充差价多少？](article2.md)
@@ -30,16 +32,17 @@
 - [CARDMVP 抖音钻石优惠实测：实时汇率 + 低额手续费，真的划算吗？](douyinyouhui.md)
 - [CARDMVP 平台评测｜中文站与英文国际站跨境充值对比](cardmvp.md)
 - [抖音充值便宜代充平台,不知道你听过 CARDMVP 吗](douyin-daichong.md)
-- [Where can you buy Chamet coins and do Chamet recharge safely? CARDMVP](chamet.md)
 - [海外想充值抖音钻石？海外支付地区限制怎么解决？CARDMVP 跨境充值实测](douyin-zuanshi-1.md)
 - [Soul 币怎么充值？海外华人 Soul 币充值教程｜CARDMVP 海外充值](p1-soul.md)
 - [虎牙海外充值｜虎牙号直充虎币金豆渠道实测-CARDMVP海外代充](huya-chongzhi.md)
-- [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
 - [快手快币充值｜海外快手号直充，CARDMVP 使用实测分享](kuaibi-chongzhi.md)
-- [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
 - [海外陌陌充值怎么操作？分享一个支持陌陌号直充的渠道体验](momo-chongzhi.md)
-- [Douyin Diamond Recharge: Real User Experience & Step-by-Step Workaround for Overseas Fans](douyin-diamond.md)
 
+### 🌐 英文文章
+- [Where can you buy Chamet coins and do Chamet recharge safely? CARDMVP](chamet.md)
+- [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
+- [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
+- [Douyin Diamond Recharge: Real User Experience & Step-by-Step Workaround for Overseas Fans](douyin-diamond.md)
 
 ---
 > 免责提示：本站仅为经验科普分享，不构成交易诱导，虚拟商品请理性消费。
