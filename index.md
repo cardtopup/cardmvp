@@ -37,6 +37,7 @@
 - [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
 - [快手快币充值｜海外快手号直充，CARDMVP 使用实测分享](kuaibi-chongzhi.md)
 - [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
+- [海外陌陌充值怎么操作？分享一个支持陌陌号直充的渠道体验](momo-chongzhi.md)
 
 
 ---
