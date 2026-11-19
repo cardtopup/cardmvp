@@ -18,7 +18,7 @@
 
 ### 中文文章
 - [海外想充欢乐斗地主？两种充值方式差别很大，别选错渠道-CARDMVP海外充值](huanle-doudizhu.md)
-- [海外华人充值游戏平台｜怎么选不踩坑的正规代充平台？](article1.md)
+- [B 站海外充值完整指南｜分清电池、B 币、大会员，海外华人充值渠道对比-CARDMVP](bilibili-haiwai.md)
 - [海外第五人格储值划算渠道VS官方直充差价多少？](article2.md)
 - [海外怎么充值抖音抖币？美国、马来西亚、澳洲华人充值抖音完整攻略-CARDMVP海外充值](douyin-doubi.html)
 - [海外充抖音不只盯着安全，平价好用的渠道分享](haiwaichongzhi.html)
