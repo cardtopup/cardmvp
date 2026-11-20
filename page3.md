@@ -183,8 +183,11 @@ description: CARDMVP 海外充值与游戏代充攻略文章目录第 3 页
 <span class="article-item-title">海外陌陌充值怎么操作？分享一个支持陌陌号直充的渠道体验</span>
 <span class="article-arrow">阅读 →</span>
 </a>
-  <a href="bilibili-haiwai.html" class="article-item">
+<a href="bilibili-haiwai.html" class="article-item">
 <span class="article-item-title">B 站海外充值完整指南｜分清电池、B 币、大会员，海外华人充值渠道对比-CARDMVP</span>
+<span class="article-arrow">阅读 →</span>
+<a href="haiwaichong.html" class="article-item">
+<span class="article-item-title">海外国服数字充值的技术与实践：从用户痛点看 CARDMVP 平台的实现思路</span>
 <span class="article-arrow">阅读 →</span>
 </div>
 
