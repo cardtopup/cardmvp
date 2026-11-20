@@ -45,6 +45,7 @@
 - [Chamet Recharge: Where to Do a Safe Chamet Top Up for Chamet Diamond Top Up](chamet-recharge.md)
 - [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
 - [Douyin Diamond Recharge: Real User Experience & Step-by-Step Workaround for Overseas Fans](douyin-diamond.md)
+- [CARDMVP International Site: Reliable Cross-Border Live Top-Up for Overseas Users](haiwai-jianjie.md)
 
 ---
 > 免责提示：本站仅为经验科普分享，不构成交易诱导，虚拟商品请理性消费。
