@@ -46,6 +46,7 @@
 - [Douyin Top Up for Global Fans , Safe, Fast Douyin Diamond Top-Up on CARDMVP English Site](douyin-yingwen.md)
 - [Douyin Diamond Recharge: Real User Experience & Step-by-Step Workaround for Overseas Fans](douyin-diamond.md)
 - [CARDMVP International Site: Reliable Cross-Border Live Top-Up for Overseas Users](haiwai-jianjie.md)
+- [Top Up Douyin: Practical Guide for Global Users to Fix Payment Issues & Safe Recharge](topup-douyin.md)
 
 ---
 > 免责提示：本站仅为经验科普分享，不构成交易诱导，虚拟商品请理性消费。
