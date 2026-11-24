@@ -189,6 +189,9 @@ description: CARDMVP 海外充值与游戏代充攻略文章目录第 3 页
 <a href="haiwaichong.html" class="article-item">
 <span class="article-item-title">海外国服数字充值的技术与实践：从用户痛点看 CARDMVP 平台的实现思路</span>
 <span class="article-arrow">阅读 →</span>
+  <a href="douyin-zuanshi-pianyi.html" class="article-item">
+<span class="article-item-title">海外抖音钻石充值实测｜对比好几个渠道，说说我一直在用的 CARDMVP</span>
+<span class="article-arrow">阅读 →</span>
 </div>
 
 <nav class="pagination-box" aria-label="文章列表分页">
